@@ -1,0 +1,24 @@
+{
+  "name": "screen-console",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gzaban/on-screen-console-js-for-mobile",
+  "authors": [
+    "Guy Tzaban <guy@tzaban.com>"
+  ],
+  "description": "Add a small button to the top left of the screen that open on screen console.log trace for debug.",
+  "main": "console.js",
+  "keywords": [
+    "console.log",
+    "debuger",
+    "mobile",
+    "console"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
